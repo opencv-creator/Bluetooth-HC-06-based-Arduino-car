@@ -5,7 +5,7 @@ this bluetooth app for controlling 4 wheeles robot car is used
 
 https://play.google.com/store/apps/details?id=com.giristuido.bluetooth.car.controller&pli=1
 
-DIY Car Robot Kit - Chassis,4 x Motor,4 x Wheels and other Accessories
+DIY Car Robot Kit - Chassis, 4 x Motors, 4 x Wheels and other Accessories
 
 https://www.flyrobo.in/diy-car-robot-kit-chassis-4-x-motor-4-x-wheels-and-other-accessories-robot-spare-parts?search=chassis&description=true
 
