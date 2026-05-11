@@ -1,5 +1,5 @@
 ***************Caution*********************
- HC-06 bluetooth with 10k and 20k resistor is used for RX pin, if resistors are not used HC-05 bluetooth gets damaged after half an hour
+ HC-06 bluetooth with 10k and 20k resistor is used for RX pin, if resistors are not used HC-06 bluetooth gets damaged after half an hour
 
 this bluetooth app for controlling 4 wheeles robot car is used
 
